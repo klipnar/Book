@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Verdana Bold';
+    src: url('VerdanaBold.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Arial Bold';
+    src: url('ArialBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'TimesNewRoman';
+    src: url('TimesNewRoman.woff') format('truetype');
+}
+@font-face {
+    font-family: 'Franchise Bold';
+    src: url('Franchise-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Monofonto';
+    src: url('monofonto.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    src: url('pt_sans.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Georgia Bold';
+    src: url('Georgia_bold.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Georgia Bold Italic';
+    src: url('Georgia_bold_italic.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Verdana Bold Italic';
+    src: url('Verdana_bold_italic.otf') format('truetype');
+}
+
+
+
